@@ -1595,11 +1595,6 @@ hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
 metafile = true
 
 [[files]]
-file = "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.pw.toml"
-hash = "1a9564ded8e9cd1f843f9de7fc87ffbf73033aab51494205458b0e58cc0ab194"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
@@ -1685,11 +1680,6 @@ hash = "8cecef107bc478f399553ef1b20882dcf89ad3dc0aadfef6c4a554ed5b015b9d"
 metafile = true
 
 [[files]]
-file = "mods/cave-dweller-evolved.pw.toml"
-hash = "fa52f73b4a98378092e9194dc325e98f9339c2855d1ada185e8c3ba004ea39cb"
-metafile = true
-
-[[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "88db22d92c56d906d68ef04ebe6a10b32e939fc8a51fe54d3f968f07767109d4"
 metafile = true
@@ -1730,6 +1720,11 @@ hash = "46f163a1d82a84fbe49a5eb47c53cbcbce5897a8c3fe9f8844d8a7c90abd8bd8"
 metafile = true
 
 [[files]]
+file = "mods/create-automotives.pw.toml"
+hash = "bce4fc4f66a6ec4a074c1c315318ce0dd03e935f7623a5285f6a91dbaa0f3abd"
+metafile = true
+
+[[files]]
 file = "mods/create-cardboarded-conveynience.pw.toml"
 hash = "797f6b229b358ad4306a98b387863d8c2395bc61b43fd297cf7c9643104bb64e"
 metafile = true
@@ -1737,6 +1732,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "878bea7ee908c8eb9eda3035ed5a8ed53fa3d26328756777945aaa5527765c54"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "87be52b8aaa9864eab1ec2df8c862cd01a084989b07c4cdbfaa21c57a9a778a6"
 metafile = true
 
 [[files]]
@@ -1925,6 +1925,16 @@ hash = "db67b75db18d2ce8bebe92b72f5d5a3f64de4077edfd4439e8f633517c6f53c1"
 metafile = true
 
 [[files]]
+file = "mods/immersive-vehicles.pw.toml"
+hash = "704fad4989730378eb427751d32a53d1e5bd8fb8ef5a2677a766cca404b519a1"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "7ca55cd661721ca944979439aac5160009e07ce2568fbf8aee53e019f3e55fba"
+metafile = true
+
+[[files]]
 file = "mods/inventory-particles.pw.toml"
 hash = "ec95ebb17e6d007a9de6d7acfb40ead1457dcf9703ff1915d2dc6bb361ed3720"
 metafile = true
@@ -1957,6 +1967,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "1ec4ec29a24a783f66fa71ff38f89a7119978c5f1d464b76fd77aa39ddb80d56"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "71e04fc3bfb6c6e0cf3dbd8c22d859732e1b7037c5d6ee367b0fc0a33d167301"
 metafile = true
 
 [[files]]
@@ -2065,6 +2080,11 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "779f46ed385ed5a14cb7a39a7a575d18f75795f485f41081fcfdd20d3eff9794"
+metafile = true
+
+[[files]]
 file = "mods/paragliders.pw.toml"
 hash = "f67730b1c20c56ac8aca1e68b72a518268181375eaaaa36e5ee3dfc0866026ae"
 metafile = true
@@ -2167,6 +2187,11 @@ metafile = true
 [[files]]
 file = "mods/skills.pw.toml"
 hash = "506cdf07925a5232cfe1eeb57653ce3d3659e77f0357a87a98011ca980bd07e2"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "371ac557feb06141ab111d02d55fb3f6c1ccc22fa436a8eedfe010269c058125"
 metafile = true
 
 [[files]]
