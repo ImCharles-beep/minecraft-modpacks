@@ -1915,11 +1915,6 @@ hash = "0fc131b61967727753c9133231eb5ef70557af3f3f2e91ceb8498b4609177f32"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "8c56189a235a058e9dfd8a1f6ffa449b1cfcdb957f77f07750ee203057025b9a"
-metafile = true
-
-[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "9276cb26c8a8313bb5d7b9b94c61306b1ab25f257a5e49032585b9d5ecd48f09"
 metafile = true
